@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MotR_Enabled>Show mountain roof</MotR_Enabled>
+  <MotR_RoofExplanation>Mountains rise in tiers of RimWorld rock walls on the 1x1 grid. Each higher tier recedes inward and is raised by one full cell. Use the mountain icon at the bottom right to hide the roof and work beneath it.</MotR_RoofExplanation>
+  <MotR_Height>Maximum rock tiers: {0}</MotR_Height>
+  <MotR_ToggleTip>Toggle mountain roof. Hide it to see rooms and resources beneath the mountain. Actual fog and lighting are preserved.</MotR_ToggleTip>
+  <MotR_TerraceWidth>Width between rock tiers in cells: {0}</MotR_TerraceWidth>
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MotR_Enabled>Bergdach anzeigen</MotR_Enabled>
+  <MotR_RoofExplanation>Der Berg wächst in Stufen aus RimWorld-Felswänden im 1×1-Raster. Jede höhere Stufe rückt nach innen und wird um eine volle Zelle nach oben versetzt. Der Schalter unten rechts blendet das Bergdach aus, damit du darunter arbeiten kannst.</MotR_RoofExplanation>
+  <MotR_Height>Maximale Felsstufen: {0}</MotR_Height>
+  <MotR_ToggleTip>Bergdach ein-/ausblenden. Ausblenden zeigt Räume und Rohstoffe unter dem Berg. Nebel und tatsächliche Beleuchtung bleiben erhalten.</MotR_ToggleTip>
+  <MotR_TerraceWidth>Breite zwischen Felsstufen in Zellen: {0}</MotR_TerraceWidth>
+</LanguageData>
